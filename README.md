@@ -17,11 +17,13 @@
 - 🎬 I run a small side business for **video editing and social media**
 - 🌱 Building up my GitHub as a portfolio: small projects, lots of learning in public
 
-### 🛠️ Tools & tech
+🛠️ Tools & tech
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,java,git,github,linux,pr&theme=dark" alt="Skills" />
-</p>
+Languages<br> <img src="https://skillicons.dev/icons?i=cpp,java&theme=dark" alt="Languages" />
+
+Systems<br> <img src="https://skillicons.dev/icons?i=apple,windows,linux&theme=dark" alt="macOS, Windows, Linux" />
+
+Tools<br> <img src="https://skillicons.dev/icons?i=git,github,obsidian,robloxstudio,pr&theme=dark" alt="Git, GitHub, Obsidian, Roblox Studio, Premiere Pro" />
 
 ### 🚧 Currently working on
 
