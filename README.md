@@ -35,8 +35,5 @@ Tools<br> <img src="https://skillicons.dev/icons?i=git,github,obsidian,robloxstu
 ### 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alerey1610&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats" />
 </p>
-
----
-
