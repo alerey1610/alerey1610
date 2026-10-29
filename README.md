@@ -17,7 +17,7 @@
 - 🎬 I run a small side business for **video editing and social media**
 - 🌱 Building up my GitHub as a portfolio: small projects, lots of learning in public
 
-🛠️ Tools & tech
+###🛠️ Tools & tech
 
 Languages<br> <img src="https://skillicons.dev/icons?i=cpp,java,lua,html&theme=dark" alt="C++, Java, Lua, HTML" />
 
@@ -31,6 +31,7 @@ Tools<br> <img src="https://skillicons.dev/icons?i=git,github,obsidian,robloxstu
 - A **Roblox drifting** game (no vibe coding :-))
 
 <!-- Add pinned projects, a portfolio link or contact info here once they are ready. -->
+---
 
 ### 📊 GitHub stats
 
