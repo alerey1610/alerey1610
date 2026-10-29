@@ -17,7 +17,7 @@
 - 🎬 I run a small side business for **video editing and social media**
 - 🌱 Building up my GitHub as a portfolio: small projects, lots of learning in public
 
-###🛠️ Tools & tech
+### 🛠️ Tools & tech
 
 Languages<br> <img src="https://skillicons.dev/icons?i=cpp,java,lua,html&theme=dark" alt="C++, Java, Lua, HTML" />
 
