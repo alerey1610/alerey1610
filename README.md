@@ -19,11 +19,11 @@
 
 🛠️ Tools & tech
 
-Languages<br> <img src="https://skillicons.dev/icons?i=cpp,java&theme=dark" alt="Languages" />
+Languages<br> <img src="https://skillicons.dev/icons?i=cpp,java,lua,html&theme=dark" alt="C++, Java, Lua, HTML" />
 
 Systems<br> <img src="https://skillicons.dev/icons?i=apple,windows,linux&theme=dark" alt="macOS, Windows, Linux" />
 
-Tools<br> <img src="https://skillicons.dev/icons?i=git,github,obsidian,robloxstudio,pr&theme=dark" alt="Git, GitHub, Obsidian, Roblox Studio, Premiere Pro" />
+Tools<br> <img src="https://skillicons.dev/icons?i=git,github,obsidian,robloxstudio,pr,ps&theme=dark" alt="Git, GitHub, Obsidian, Roblox Studio, Premiere Pro, Photoshop" />
 
 ### 🚧 Currently working on
 
