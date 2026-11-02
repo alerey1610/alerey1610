@@ -27,6 +27,7 @@ Tools<br> <img src="https://skillicons.dev/icons?i=git,github,obsidian,robloxstu
 
 ### 🚧 Currently working on
 
+- **Software tuning** for the MS45 (BMW E60 - M54B22)
 - A private **household planner app** for everyday use
 - A **Roblox drifting** game (no vibe coding :-))
 
